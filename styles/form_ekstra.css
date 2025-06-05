@@ -1,0 +1,38 @@
+body {
+    margin-top: 1.25rem; 
+    background-color: #F3F4F6; 
+}
+.container { 
+    margin: 2.5rem auto 0 auto;
+    padding: 1rem; 
+    border-radius: 0.25rem; 
+    max-width: 28rem; 
+    background-color: #ffffff; 
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4)
+}
+
+label { 
+    color: #2563EB;
+}
+.scan {
+    font-size: 1.5rem;
+    line-height: 2rem; 
+    font-weight: 700; 
+    text-align: center; 
+    color: #3B82F6;
+}
+.next {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    border-radius: 0.5rem;
+    width: 100%; 
+    font-weight: 600; 
+    color: #ffffff; 
+    background-color: #2563EB; 
+    cursor: pointer; 
+    border-style: none;
+    margin-top: 1rem;
+}
+.next:hover {
+    background-color: #1D4ED8; 
+}
